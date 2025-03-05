@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @NathyMacedo19
+- 👋 Hi, I’m Nathalia Macedo
 - 👀 I’m interested in Games, Animes and Tech
 - 💡 Production Engineer | Game Designer | Computing Science Student
+- Game Projects: https://nathyui.itch.io/
 
 Dynamic professional with 10+ years of experience in Production Engineering, specializing in process optimization, Lean Manufacturing, and productivity improvement (TEEP & OEE). Strong background in AutoCAD, SAP, and production planning.
 
